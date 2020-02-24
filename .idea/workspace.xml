@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f7edeab-afa3-475a-ae05-068b093f601c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="aispringclouddeom" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\tools\repository" />
+        <option name="mavenHome" value="E:/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XeJOwBOifXIl8W6H37CstNkP00" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.southwind.entity" />
+      <recent name="com.southwind.repository" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\aispringclouddeom\order\src\main\resources\mapping" />
+      <recent name="F:\aispringclouddeom\order\src\main\java\com\southwind\repository" />
+      <recent name="F:\aispringclouddeom\order\src\main\java\com\southwind\entity" />
+      <recent name="F:\aispringclouddeom\account\src\main\resources\mapping" />
+      <recent name="F:\aispringclouddeom\configserver\src\main\resources\shared" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ClientApplication">
+    <configuration name="AccountApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="account" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.southwind.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.southwind.AccountApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.southwind.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.southwind.ClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MenuApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="menu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.southwind.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.southwind.MenuApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrederApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.southwind.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.southwind.OrederApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.southwind.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.southwind.UserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ClientApplication" />
+        <item itemvalue="Spring Boot.AccountApplication" />
+        <item itemvalue="Spring Boot.MenuApplication" />
+        <item itemvalue="Spring Boot.OrederApplication" />
+        <item itemvalue="Spring Boot.UserApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f7edeab-afa3-475a-ae05-068b093f601c" name="Default Changelist" comment="" />
+      <created>1581400598747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581400598747</updated>
+      <workItem from="1581400601958" duration="3099000" />
+      <workItem from="1581429027766" duration="1081000" />
+      <workItem from="1581483041414" duration="538000" />
+      <workItem from="1581483605933" duration="4965000" />
+      <workItem from="1581569064588" duration="2907000" />
+      <workItem from="1581572441753" duration="3079000" />
+      <workItem from="1581575595277" duration="286000" />
+      <workItem from="1581575910633" duration="985000" />
+      <workItem from="1581594298868" duration="313000" />
+      <workItem from="1581661495376" duration="3461000" />
+      <workItem from="1581676971764" duration="8011000" />
+      <workItem from="1581686016538" duration="5215000" />
+      <workItem from="1581740999107" duration="4491000" />
+      <workItem from="1581752834855" duration="189000" />
+      <workItem from="1581829898314" duration="5356000" />
+      <workItem from="1581916240424" duration="3767000" />
+      <workItem from="1581926843802" duration="2421000" />
+      <workItem from="1582087729950" duration="4829000" />
+      <workItem from="1582109293727" duration="68000" />
+      <workItem from="1582174239395" duration="5536000" />
+      <workItem from="1582262937843" duration="4648000" />
+      <workItem from="1582362694561" duration="1576000" />
+      <workItem from="1582425464813" duration="226000" />
+      <workItem from="1582527328668" duration="3164000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="451" y="89" key="#Inspections" timestamp="1581487849132">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="451" y="89" key="#Inspections/-1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1581487849132" />
+    <state x="551" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581678926934">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="551" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1581678926934" />
+    <state x="686" y="209" key="FileChooserDialogImpl" timestamp="1582541843806">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="686" y="209" key="FileChooserDialogImpl/-1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1582541843806" />
+    <state x="686" y="209" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1581830950030" />
+    <state width="1864" height="397" key="GridCell.Tab.0.bottom" timestamp="1582530961336">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="397" key="GridCell.Tab.0.bottom/-1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1582530961336" />
+    <state width="1864" height="565" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1582425705907" />
+    <state width="1864" height="397" key="GridCell.Tab.0.center" timestamp="1582530961336">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="397" key="GridCell.Tab.0.center/-1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1582530961336" />
+    <state width="1864" height="565" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1582425705907" />
+    <state width="1864" height="397" key="GridCell.Tab.0.left" timestamp="1582530961336">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="397" key="GridCell.Tab.0.left/-1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1582530961336" />
+    <state width="1864" height="565" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1582425705906" />
+    <state width="1864" height="397" key="GridCell.Tab.0.right" timestamp="1582530961336">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="397" key="GridCell.Tab.0.right/-1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1582530961336" />
+    <state width="1864" height="565" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1582425705907" />
+    <state width="1864" height="397" key="GridCell.Tab.1.bottom" timestamp="1582530961336">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="397" key="GridCell.Tab.1.bottom/-1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1582530961336" />
+    <state width="1864" height="565" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1582376081268" />
+    <state width="1864" height="397" key="GridCell.Tab.1.center" timestamp="1582530961336">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="397" key="GridCell.Tab.1.center/-1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1582530961336" />
+    <state width="1864" height="565" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1582376081267" />
+    <state width="1864" height="397" key="GridCell.Tab.1.left" timestamp="1582530961336">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="397" key="GridCell.Tab.1.left/-1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1582530961336" />
+    <state width="1864" height="565" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1582376081267" />
+    <state width="1864" height="397" key="GridCell.Tab.1.right" timestamp="1582530961336">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="397" key="GridCell.Tab.1.right/-1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1582530961336" />
+    <state width="1864" height="565" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1582376081267" />
+    <state width="1864" height="372" key="GridCell.Tab.2.bottom" timestamp="1582266002948">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="372" key="GridCell.Tab.2.bottom/-1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1582266002948" />
+    <state width="1864" height="382" key="GridCell.Tab.2.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1581830715058" />
+    <state width="1864" height="372" key="GridCell.Tab.2.center" timestamp="1582266002947">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="372" key="GridCell.Tab.2.center/-1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1582266002947" />
+    <state width="1864" height="382" key="GridCell.Tab.2.center/0.0.1920.1032@0.0.1920.1032" timestamp="1581830715057" />
+    <state width="1864" height="372" key="GridCell.Tab.2.left" timestamp="1582266002947">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="372" key="GridCell.Tab.2.left/-1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1582266002947" />
+    <state width="1864" height="382" key="GridCell.Tab.2.left/0.0.1920.1032@0.0.1920.1032" timestamp="1581830715057" />
+    <state width="1864" height="372" key="GridCell.Tab.2.right" timestamp="1582266002948">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="372" key="GridCell.Tab.2.right/-1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1582266002948" />
+    <state width="1864" height="382" key="GridCell.Tab.2.right/0.0.1920.1032@0.0.1920.1032" timestamp="1581830715058" />
+    <state width="276" height="551" key="HiddenNamespacesPopup" timestamp="1581678778718">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="276" height="551" key="HiddenNamespacesPopup/-1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1581678778718" />
+    <state x="585" y="54" key="SettingsEditor" timestamp="1581576056025">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="585" y="54" key="SettingsEditor/-1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1581576056025" />
+    <state x="559" y="295" key="com.intellij.ide.util.TipDialog" timestamp="1582541809661">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="559" y="295" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1582541809661" />
+    <state x="559" y="295" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1582527394280" />
+    <state x="91" y="91" width="1738" height="850" key="dock-window-1" timestamp="1581919980730">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="91" y="91" width="1738" height="850" key="dock-window-1/-1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1581919980730" />
+    <state x="151" y="139" key="new project wizard" timestamp="1582089484061">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="151" y="139" key="new project wizard/-1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1582089484061" />
+    <state x="539" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1581572939315">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="539" y="-1" width="840" height="1034" key="search.everywhere.popup/-1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1581572939315" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/client/src/main/java/com/southwind/controller/UserHandler.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/client/src/main/java/com/southwind/controller/OrderHandler.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
