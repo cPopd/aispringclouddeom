@@ -17,3 +17,7 @@ client 服务消费者
 服务消费者client只负责前后端交互 页面跟controller.MenuHandler交互 然后调用feign.MenuFeign 然后feigan在调用服务提供者menu 到menu.controller.MenuHandler的业务方法再来调用
 repository 然后repository再去访问mappimg.xml文件 再去访问数据库 完成对数据的管理
 由menu提供数据交互
+
+
+登录:  http://localhost:8030/login.html
+账号：zhangsan  密码:123123
